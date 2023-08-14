@@ -31,7 +31,6 @@ class Buku extends CI_Controller
         // initialize pagination
         $this->pagination->initialize($config);
         
-        
         $this->load->view('templates/header', $data);
         $this->load->view('templates/sidebar', $data);
         $this->load->view('templates/topbar', $data);
