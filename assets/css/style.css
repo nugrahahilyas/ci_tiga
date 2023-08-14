@@ -1,0 +1,17 @@
+.bgstel {
+	background-color: #14b8a6;
+}
+.btn-bgstel:hover {
+	opacity: 0.8;
+	cursor: pointer;
+	text-decoration: none;
+}
+.bgstel2 {
+	background-color: #e2edff;
+}
+.gambar-hero {
+	height: 300px;
+}
+body {
+	color: #333;
+}

@@ -1,0 +1,24 @@
+[
+	{
+		"nama": "Hilyas Riza Nugraha",
+		"umur": 30,
+		"nim": "12651081",
+		"lulus": true,
+		"hobby": ["coding", "gaming"],
+		"pembimbing": {
+			"pembimbing1": "Agus Mulyanto",
+			"pembimbing2": "Agung Fatwanto"
+		}
+	},
+	{
+		"nama": "Gestik Arbi",
+		"umur": 27,
+		"nim": "12651082",
+		"lulus": true,
+		"hobby": ["ngajar", "masak"],
+		"pembimbing": {
+			"pembimbing1": "ade",
+			"pembimbing2": "reysa"
+		}
+	}
+]
